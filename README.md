@@ -4,4 +4,6 @@ Hello World!
 
 something
 
-a local edit
+
+Both a local edit and an online edit
+
